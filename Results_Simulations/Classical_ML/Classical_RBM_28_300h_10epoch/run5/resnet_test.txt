@@ -1,0 +1,351 @@
+prob del número  0  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.8485, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0292, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0006, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0227, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0051, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0187, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0080, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0657, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0012, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(7.3160e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9456, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0130, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0101, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0015, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0059, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0043, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0189, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0005, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(3.8622e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9453, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0075, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0098, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0017, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0123, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0018, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0210, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(1.6497e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9720, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0047, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(5.0580e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0051, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0008, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0062, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0014, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0097, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(5.4559e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9413, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0081, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0086, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0016, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0083, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0028, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0288, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(1.5847e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9779, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0039, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(4.2256e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0040, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0006, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0037, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0017, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0080, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(2.5868e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9679, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0068, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(6.9248e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0057, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0008, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0042, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0022, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0121, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(2.0509e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9748, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0077, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(5.5179e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0043, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0005, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0026, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0026, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0072, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(7.4229e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9129, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0140, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0290, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0028, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0103, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0067, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0231, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0009, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(8.8641e-06, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9878, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0032, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(2.1604e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0014, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0015, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0017, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0039, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(5.9043e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(2.9991e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9636, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0076, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(9.9967e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0048, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0009, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0035, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0025, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0167, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(8.9364e-06, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9845, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0036, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(2.6490e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0016, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0004, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0027, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0011, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0061, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(5.8650e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(1.4222e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9813, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0046, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(3.3802e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0031, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0004, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0024, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0016, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0064, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(0.0009, grad_fn=<MulBackward0>)
+prob del número  2  es:  tensor(0.0027, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(6.7052e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0017, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(3.1206e-05, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(99.9924, grad_fn=<MulBackward0>)
+Number found! Number is: 7
+
+prob del número  8  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0016, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(5.2728e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9426, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0092, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0098, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0020, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0100, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0051, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0206, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0004, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(7.9075e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9421, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0141, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0068, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0019, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0104, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0035, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0205, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0004, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(2.0953e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9668, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0052, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(6.5764e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0069, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0010, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0069, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0019, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0110, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(7.7697e-06, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9861, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0029, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(1.9597e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0036, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0019, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0010, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0039, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(8.5628e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(7.3242e-06, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9887, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0029, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(1.5806e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0020, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0015, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0011, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0035, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(5.6443e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(2.2575e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9734, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0071, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(6.3394e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0038, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0007, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0037, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0021, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0091, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(0.0010, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(0.0079, grad_fn=<MulBackward0>)
+prob del número  2  es:  tensor(0.0186, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0004, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0059, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0017, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0002, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(99.9568, grad_fn=<MulBackward0>)
+Number found! Number is: 7
+
+prob del número  8  es:  tensor(0.0009, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0066, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(8.6967e-06, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9858, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0036, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(1.9621e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0028, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0024, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0012, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0039, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(6.9740e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(4.3797e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9534, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0078, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(0.0001, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0072, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0015, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0084, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0030, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0182, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(1.2888e-05, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9855, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0035, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(2.3295e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0016, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0023, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0033, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0033, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(8.2827e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+prob del número  0  es:  tensor(9.3111e-06, grad_fn=<MulBackward0>)
+prob del número  1  es:  tensor(99.9861, grad_fn=<MulBackward0>)
+Number found! Number is: 1
+
+prob del número  2  es:  tensor(0.0034, grad_fn=<MulBackward0>)
+prob del número  3  es:  tensor(2.2389e-05, grad_fn=<MulBackward0>)
+prob del número  4  es:  tensor(0.0020, grad_fn=<MulBackward0>)
+prob del número  5  es:  tensor(0.0003, grad_fn=<MulBackward0>)
+prob del número  6  es:  tensor(0.0024, grad_fn=<MulBackward0>)
+prob del número  7  es:  tensor(0.0015, grad_fn=<MulBackward0>)
+prob del número  8  es:  tensor(0.0041, grad_fn=<MulBackward0>)
+prob del número  9  es:  tensor(6.8448e-05, grad_fn=<MulBackward0>)
+Next image to analyze: 
+
+Accuracy of the classical RBM 28x28 with 300 hidden neurons and 10 epochs is:  100.0

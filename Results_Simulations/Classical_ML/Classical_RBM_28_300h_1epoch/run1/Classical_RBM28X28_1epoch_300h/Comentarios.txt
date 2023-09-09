@@ -1,0 +1,6 @@
+Vemos que la accuracy a la hora de generar números por la RBM es de 96%.
+La resnet classifica correctamente el 96% de las imágenes producidas por la RBM.
+Teniendo en cuenta que la Resnet tiene una accuracy con el MNIST 28x28
+del 96.788%, el hecho de que la RBM tenga un 96% de correcta clasificación
+de imágenes, dice que está bien entrenada y ha alcanzado un mínimo de energía
+mediante métodos heurísticos (Parallel tempering)
